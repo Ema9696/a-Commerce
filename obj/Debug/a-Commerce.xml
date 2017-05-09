@@ -1,0 +1,3876 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+a-Commerce
+</name>
+</assembly>
+<members>
+<member name="F:a_Commerce.PopUpVignetta1.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.CopyNavigationAnimation1.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.OrdineEffettuato1.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.OrdineEffettuato1.Image18">
+	<summary>
+Controllo Image18.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.OrdineEffettuato1.Image21">
+	<summary>
+Controllo Image21.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.OrdineEffettuato1.Image19">
+	<summary>
+Controllo Image19.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.OrdineEffettuato1.Image20">
+	<summary>
+Controllo Image20.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.OrdineEffettuato1.ImageButton2">
+	<summary>
+Controllo ImageButton2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.OrdineEffettuato1.ImageButton5">
+	<summary>
+Controllo ImageButton5.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.OrdineEffettuato1.ImageButton3">
+	<summary>
+Controllo ImageButton3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.OrdineEffettuato1.ImageButton4">
+	<summary>
+Controllo ImageButton4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.OrdineEffettuato1.SiteMapPath1">
+	<summary>
+Controllo SiteMapPath1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.OrdineEffettuato1.LoginName2">
+	<summary>
+Controllo LoginName2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.OrdineEffettuato1.LoginStatus1">
+	<summary>
+Controllo LoginStatus1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.OrdineEffettuato1.TextBox2">
+	<summary>
+Controllo TextBox2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.OrdineEffettuato1.TextBox1">
+	<summary>
+Controllo TextBox1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.OrdineEffettuato1.RequiredFieldValidator1">
+	<summary>
+Controllo RequiredFieldValidator1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.OrdineEffettuato1.Button1">
+	<summary>
+Controllo Button1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.OrdineEffettuato1.Button5">
+	<summary>
+Controllo Button5.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.OrdineEffettuato1.Button2">
+	<summary>
+Controllo Button2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.OrdineEffettuato1.Button3">
+	<summary>
+Controllo Button3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.OrdineEffettuato1.Button4">
+	<summary>
+Controllo Button4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.CarrelloWebMaster.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Catalogo.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Catalogo.Image18">
+	<summary>
+Controllo Image18.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Catalogo.Image21">
+	<summary>
+Controllo Image21.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Catalogo.Image19">
+	<summary>
+Controllo Image19.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Catalogo.Image20">
+	<summary>
+Controllo Image20.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Catalogo.ImageButton2">
+	<summary>
+Controllo ImageButton2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Catalogo.ImageButton5">
+	<summary>
+Controllo ImageButton5.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Catalogo.ImageButton3">
+	<summary>
+Controllo ImageButton3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Catalogo.ImageButton4">
+	<summary>
+Controllo ImageButton4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Catalogo.ImageButton6">
+	<summary>
+Controllo ImageButton6.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Catalogo.ImageButton7">
+	<summary>
+Controllo ImageButton7.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Catalogo.Label1">
+	<summary>
+Controllo Label1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Catalogo.SiteMapPath1">
+	<summary>
+Controllo SiteMapPath1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Catalogo.LoginName2">
+	<summary>
+Controllo LoginName2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Catalogo.LoginStatus1">
+	<summary>
+Controllo LoginStatus1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Catalogo.TextBox2">
+	<summary>
+Controllo TextBox2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Catalogo.TextBox1">
+	<summary>
+Controllo TextBox1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Catalogo.Button5">
+	<summary>
+Controllo Button5.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Catalogo.Button1">
+	<summary>
+Controllo Button1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Catalogo.Button4">
+	<summary>
+Controllo Button4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Catalogo.Button2">
+	<summary>
+Controllo Button2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Catalogo.Button3">
+	<summary>
+Controllo Button3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Catalogo.GridView1">
+	<summary>
+Controllo GridView1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Catalogo.SqlDataSource1">
+	<summary>
+Controllo SqlDataSource1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.DettaglioAquisto.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.DettaglioAquisto.Image18">
+	<summary>
+Controllo Image18.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.DettaglioAquisto.Image21">
+	<summary>
+Controllo Image21.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.DettaglioAquisto.Image19">
+	<summary>
+Controllo Image19.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.DettaglioAquisto.Image20">
+	<summary>
+Controllo Image20.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.DettaglioAquisto.ImageButton2">
+	<summary>
+Controllo ImageButton2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.DettaglioAquisto.ImageButton5">
+	<summary>
+Controllo ImageButton5.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.DettaglioAquisto.ImageButton3">
+	<summary>
+Controllo ImageButton3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.DettaglioAquisto.ImageButton4">
+	<summary>
+Controllo ImageButton4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.DettaglioAquisto.ImageButton6">
+	<summary>
+Controllo ImageButton6.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.DettaglioAquisto.ImageButton8">
+	<summary>
+Controllo ImageButton8.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.DettaglioAquisto.Label1">
+	<summary>
+Controllo Label1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.DettaglioAquisto.SiteMapPath1">
+	<summary>
+Controllo SiteMapPath1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.DettaglioAquisto.DetailsView1">
+	<summary>
+Controllo DetailsView1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.DettaglioAquisto.SqlDataSource1">
+	<summary>
+Controllo SqlDataSource1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.DettaglioAquisto.TextBox2">
+	<summary>
+Controllo TextBox2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.DettaglioAquisto.Button1">
+	<summary>
+Controllo Button1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.DettaglioAquisto.ImageButton7">
+	<summary>
+Controllo ImageButton7.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.DettaglioAquisto.SqlDataSource2">
+	<summary>
+Controllo SqlDataSource2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.ImageVB.Head1">
+	<summary>
+Controllo Head1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.ImageVB.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.ImageVB.Button1">
+	<summary>
+Controllo Button1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.ImageVB.SqlDataSource1">
+	<summary>
+Controllo SqlDataSource1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.ImageVB.GridView2">
+	<summary>
+Controllo GridView2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Site1.head">
+	<summary>
+Controllo head.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Site1.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Site1.ContentPlaceHolder1">
+	<summary>
+Controllo ContentPlaceHolder1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Site1.ImageButton2">
+	<summary>
+Controllo ImageButton2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Site1.ImageButton5">
+	<summary>
+Controllo ImageButton5.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Site1.ImageButton3">
+	<summary>
+Controllo ImageButton3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Site1.ImageButton4">
+	<summary>
+Controllo ImageButton4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.MenùMarkup.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="P:a_Commerce.My.MyWebExtension.Application">
+	<summary>
+ Restituisce informazioni sull'applicazione corrente.
+ </summary>
+</member><member name="P:a_Commerce.My.MyWebExtension.Computer">
+	<summary>
+ Restituisce le informazioni sul computer host.
+ </summary>
+</member><member name="P:a_Commerce.My.MyWebExtension.User">
+	<summary>
+ Restituisce le informazioni per l'utente Web corrente.
+ </summary>
+</member><member name="P:a_Commerce.My.MyWebExtension.Request">
+	<summary>
+ Restituisce l'oggetto Request.
+ </summary>
+</member><member name="P:a_Commerce.My.MyWebExtension.Response">
+	<summary>
+ Restituisce l'oggetto Response.
+ </summary>
+</member><member name="P:a_Commerce.My.MyWebExtension.Log">
+	<summary>
+ Restituisce l'oggetto AspLog.
+ </summary>
+</member><member name="P:a_Commerce.My.MyWebExtension.WebServices">
+	<summary>
+ Fornisce accesso ai servizi Web aggiunti al progetto.
+ </summary>
+</member><member name="T:a_Commerce.My.MyWebExtension">
+	<summary>
+ Modulo utilizzato per definire le proprietà disponibili nello spazio dei nomi My per i progetti Web.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:a_Commerce.BottoniPaging.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.NewHomePage.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.NewHomePage.ImageButton2">
+	<summary>
+Controllo ImageButton2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.NewHomePage.ImageButton5">
+	<summary>
+Controllo ImageButton5.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.NewHomePage.ImageButton3">
+	<summary>
+Controllo ImageButton3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.NewHomePage.ImageButton4">
+	<summary>
+Controllo ImageButton4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.NewHomePage.ImageButton6">
+	<summary>
+Controllo ImageButton6.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.NewHomePage.ImageButton7">
+	<summary>
+Controllo ImageButton7.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.NewHomePage.Label1">
+	<summary>
+Controllo Label1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.NewHomePage.SiteMapPath1">
+	<summary>
+Controllo SiteMapPath1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.NewHomePage.LoginName2">
+	<summary>
+Controllo LoginName2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.NewHomePage.LoginStatus1">
+	<summary>
+Controllo LoginStatus1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.TestHomePage2.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.TestHomePage2.ImageButton2">
+	<summary>
+Controllo ImageButton2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.TestHomePage2.ImageButton5">
+	<summary>
+Controllo ImageButton5.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.TestHomePage2.ImageButton3">
+	<summary>
+Controllo ImageButton3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.TestHomePage2.ImageButton4">
+	<summary>
+Controllo ImageButton4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.TestHomePage2.ImageButton6">
+	<summary>
+Controllo ImageButton6.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.TestHomePage2.ImageButton8">
+	<summary>
+Controllo ImageButton8.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.TestHomePage2.Label4">
+	<summary>
+Controllo Label4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.TestHomePage2.LoginName2">
+	<summary>
+Controllo LoginName2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.TestHomePage2.LoginStatus1">
+	<summary>
+Controllo LoginStatus1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.TestHomePage2.Head1">
+	<summary>
+Controllo Head1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.TestHomePage2.form2">
+	<summary>
+Controllo form2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.TestMagneticButton.Head1">
+	<summary>
+Controllo Head1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.TestMagneticButton.formx">
+	<summary>
+Controllo formx.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Vendita.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Vendita.Image18">
+	<summary>
+Controllo Image18.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Vendita.Image21">
+	<summary>
+Controllo Image21.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Vendita.Image19">
+	<summary>
+Controllo Image19.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Vendita.Image20">
+	<summary>
+Controllo Image20.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Vendita.ImageButton2">
+	<summary>
+Controllo ImageButton2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Vendita.ImageButton5">
+	<summary>
+Controllo ImageButton5.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Vendita.ImageButton3">
+	<summary>
+Controllo ImageButton3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Vendita.ImageButton4">
+	<summary>
+Controllo ImageButton4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Vendita.SiteMapPath1">
+	<summary>
+Controllo SiteMapPath1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Vendita.LoginName2">
+	<summary>
+Controllo LoginName2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Vendita.LoginStatus1">
+	<summary>
+Controllo LoginStatus1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Vendita.TextBox1">
+	<summary>
+Controllo TextBox1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Vendita.RequiredFieldValidator1">
+	<summary>
+Controllo RequiredFieldValidator1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Vendita.TextBox2">
+	<summary>
+Controllo TextBox2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Vendita.RequiredFieldValidator2">
+	<summary>
+Controllo RequiredFieldValidator2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Vendita.TextBox3">
+	<summary>
+Controllo TextBox3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Vendita.RequiredFieldValidator3">
+	<summary>
+Controllo RequiredFieldValidator3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Vendita.RegularExpressionValidator1">
+	<summary>
+Controllo RegularExpressionValidator1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Vendita.TextBox4">
+	<summary>
+Controllo TextBox4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Vendita.TextBox5">
+	<summary>
+Controllo TextBox5.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Vendita.RequiredFieldValidator4">
+	<summary>
+Controllo RequiredFieldValidator4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Vendita.TextBox6">
+	<summary>
+Controllo TextBox6.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Vendita.RequiredFieldValidator5">
+	<summary>
+Controllo RequiredFieldValidator5.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Vendita.FileUpload1">
+	<summary>
+Controllo FileUpload1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Vendita.lblMessage">
+	<summary>
+Controllo lblMessage.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Vendita.Button6">
+	<summary>
+Controllo Button6.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Vendita.Button7">
+	<summary>
+Controllo Button7.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Vendita.Button8">
+	<summary>
+Controllo Button8.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Vendita.Label1">
+	<summary>
+Controllo Label1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Vendita.GridView1">
+	<summary>
+Controllo GridView1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.CambiaPw.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.CambiaPw.Image18">
+	<summary>
+Controllo Image18.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.CambiaPw.Image21">
+	<summary>
+Controllo Image21.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.CambiaPw.Image19">
+	<summary>
+Controllo Image19.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.CambiaPw.Image20">
+	<summary>
+Controllo Image20.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.CambiaPw.ImageButton2">
+	<summary>
+Controllo ImageButton2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.CambiaPw.ImageButton5">
+	<summary>
+Controllo ImageButton5.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.CambiaPw.ImageButton3">
+	<summary>
+Controllo ImageButton3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.CambiaPw.ImageButton4">
+	<summary>
+Controllo ImageButton4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.CambiaPw.SiteMapPath1">
+	<summary>
+Controllo SiteMapPath1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.CambiaPw.ChangePassword1">
+	<summary>
+Controllo ChangePassword1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.CambiaPw.Button1">
+	<summary>
+Controllo Button1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.CambiaPw.Button2">
+	<summary>
+Controllo Button2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.LoginVersion1.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.LoginVersion1.Image18">
+	<summary>
+Controllo Image18.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.LoginVersion1.Image21">
+	<summary>
+Controllo Image21.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.LoginVersion1.Image19">
+	<summary>
+Controllo Image19.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.LoginVersion1.Image20">
+	<summary>
+Controllo Image20.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.LoginVersion1.ImageButton2">
+	<summary>
+Controllo ImageButton2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.LoginVersion1.ImageButton5">
+	<summary>
+Controllo ImageButton5.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.LoginVersion1.ImageButton3">
+	<summary>
+Controllo ImageButton3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.LoginVersion1.ImageButton4">
+	<summary>
+Controllo ImageButton4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.LoginVersion1.SiteMapPath1">
+	<summary>
+Controllo SiteMapPath1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.LoginVersion1.Login1">
+	<summary>
+Controllo Login1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.LoginVersion1.Button2">
+	<summary>
+Controllo Button2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.FooterTest1.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.FooterTest1.RadioButton1">
+	<summary>
+Controllo RadioButton1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Register.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.StoricoOrdini.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.StoricoOrdini.ImageButton2">
+	<summary>
+Controllo ImageButton2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.StoricoOrdini.ImageButton5">
+	<summary>
+Controllo ImageButton5.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.StoricoOrdini.ImageButton3">
+	<summary>
+Controllo ImageButton3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.StoricoOrdini.ImageButton4">
+	<summary>
+Controllo ImageButton4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.StoricoOrdini.ImageButton6">
+	<summary>
+Controllo ImageButton6.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.StoricoOrdini.SiteMapPath1">
+	<summary>
+Controllo SiteMapPath1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.StoricoOrdini.LoginName2">
+	<summary>
+Controllo LoginName2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.StoricoOrdini.LoginStatus1">
+	<summary>
+Controllo LoginStatus1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.StoricoOrdini.GridView1">
+	<summary>
+Controllo GridView1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.StoricoOrdini.SqlDataSource1">
+	<summary>
+Controllo SqlDataSource1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.StoricoOrdini.Button1">
+	<summary>
+Controllo Button1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Ranking.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.TestHomePage1.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.VediCarrello.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.VediCarrello.Image18">
+	<summary>
+Controllo Image18.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.VediCarrello.Image21">
+	<summary>
+Controllo Image21.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.VediCarrello.Image19">
+	<summary>
+Controllo Image19.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.VediCarrello.Image20">
+	<summary>
+Controllo Image20.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.VediCarrello.ImageButton2">
+	<summary>
+Controllo ImageButton2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.VediCarrello.ImageButton5">
+	<summary>
+Controllo ImageButton5.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.VediCarrello.ImageButton3">
+	<summary>
+Controllo ImageButton3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.VediCarrello.ImageButton4">
+	<summary>
+Controllo ImageButton4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.VediCarrello.ImageButton6">
+	<summary>
+Controllo ImageButton6.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.VediCarrello.ImageButton7">
+	<summary>
+Controllo ImageButton7.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.VediCarrello.SiteMapPath1">
+	<summary>
+Controllo SiteMapPath1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.VediCarrello.LoginName2">
+	<summary>
+Controllo LoginName2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.VediCarrello.LoginStatus1">
+	<summary>
+Controllo LoginStatus1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.VediCarrello.SqlDataSource1">
+	<summary>
+Controllo SqlDataSource1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.VediCarrello.GridView1">
+	<summary>
+Controllo GridView1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.VediCarrello.Label1">
+	<summary>
+Controllo Label1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.VediCarrello.Button5">
+	<summary>
+Controllo Button5.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.VediCarrello.Button4">
+	<summary>
+Controllo Button4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.VediCarrello.SqlDataSource2">
+	<summary>
+Controllo SqlDataSource2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.VediCarrello.Button3">
+	<summary>
+Controllo Button3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.VediCarrello.Button1">
+	<summary>
+Controllo Button1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.VediCarrello.Button2">
+	<summary>
+Controllo Button2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.VediCarrello.GridView2">
+	<summary>
+Controllo GridView2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.VediCarrello.SqlDataSource3">
+	<summary>
+Controllo SqlDataSource3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Array1.Head1">
+	<summary>
+Controllo Head1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Array1.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Array1.GridView1">
+	<summary>
+Controllo GridView1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Array1.Button2">
+	<summary>
+Controllo Button2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Array1.Button1">
+	<summary>
+Controllo Button1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Checkout1.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Checkout1.Image18">
+	<summary>
+Controllo Image18.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Checkout1.Image21">
+	<summary>
+Controllo Image21.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Checkout1.Image19">
+	<summary>
+Controllo Image19.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Checkout1.Image20">
+	<summary>
+Controllo Image20.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Checkout1.ImageButton2">
+	<summary>
+Controllo ImageButton2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Checkout1.ImageButton5">
+	<summary>
+Controllo ImageButton5.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Checkout1.ImageButton3">
+	<summary>
+Controllo ImageButton3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Checkout1.ImageButton4">
+	<summary>
+Controllo ImageButton4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Checkout1.SiteMapPath1">
+	<summary>
+Controllo SiteMapPath1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Checkout1.LoginName2">
+	<summary>
+Controllo LoginName2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Checkout1.LoginStatus1">
+	<summary>
+Controllo LoginStatus1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Checkout1.HyperLink3">
+	<summary>
+Controllo HyperLink3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Checkout1.SqlDataSource1">
+	<summary>
+Controllo SqlDataSource1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Checkout1.GridView1">
+	<summary>
+Controllo GridView1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Checkout1.TextBox1">
+	<summary>
+Controllo TextBox1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Checkout1.TextBox2">
+	<summary>
+Controllo TextBox2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Checkout1.TextBox3">
+	<summary>
+Controllo TextBox3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Checkout1.TextBox4">
+	<summary>
+Controllo TextBox4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Checkout1.TextBox5">
+	<summary>
+Controllo TextBox5.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Checkout1.Button3">
+	<summary>
+Controllo Button3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Checkout1.Button4">
+	<summary>
+Controllo Button4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Checkout1.TextBox6">
+	<summary>
+Controllo TextBox6.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Checkout1.CheckBox1">
+	<summary>
+Controllo CheckBox1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Checkout1.HyperLink1">
+	<summary>
+Controllo HyperLink1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Checkout1.CheckBox3">
+	<summary>
+Controllo CheckBox3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Checkout1.HyperLink2">
+	<summary>
+Controllo HyperLink2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Checkout1.Button2">
+	<summary>
+Controllo Button2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.DropDownMenù.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.HomePage.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.HomePage.Image18">
+	<summary>
+Controllo Image18.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.HomePage.Image21">
+	<summary>
+Controllo Image21.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.HomePage.Image19">
+	<summary>
+Controllo Image19.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.HomePage.Image20">
+	<summary>
+Controllo Image20.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.HomePage.ImageButton2">
+	<summary>
+Controllo ImageButton2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.HomePage.ImageButton5">
+	<summary>
+Controllo ImageButton5.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.HomePage.ImageButton3">
+	<summary>
+Controllo ImageButton3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.HomePage.ImageButton4">
+	<summary>
+Controllo ImageButton4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.HomePage.ImageButton9">
+	<summary>
+Controllo ImageButton9.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.HomePage.ImageButton6">
+	<summary>
+Controllo ImageButton6.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.HomePage.ImageButton8">
+	<summary>
+Controllo ImageButton8.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.HomePage.SiteMapPath1">
+	<summary>
+Controllo SiteMapPath1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.HomePage.Button7">
+	<summary>
+Controllo Button7.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.HomePage.Button8">
+	<summary>
+Controllo Button8.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.HomePage.LoginName2">
+	<summary>
+Controllo LoginName2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.HomePage.LoginStatus1">
+	<summary>
+Controllo LoginStatus1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.HomePage.Button1">
+	<summary>
+Controllo Button1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.HomePage.Button2">
+	<summary>
+Controllo Button2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.HomePage.Button5">
+	<summary>
+Controllo Button5.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.HomePage.Button3">
+	<summary>
+Controllo Button3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.HomePage.Button6">
+	<summary>
+Controllo Button6.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.HomePage.Image11">
+	<summary>
+Controllo Image11.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.HomePage.Image12">
+	<summary>
+Controllo Image12.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.HomePage.Image15">
+	<summary>
+Controllo Image15.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.HomePage.Image16">
+	<summary>
+Controllo Image16.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.HomePage.Image17">
+	<summary>
+Controllo Image17.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.HomePage.Button4">
+	<summary>
+Controllo Button4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.HomePage.Button10">
+	<summary>
+Controllo Button10.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.HomePage.Button11">
+	<summary>
+Controllo Button11.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.MasterTest.ImageButton2">
+	<summary>
+Controllo ImageButton2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.MasterTest.ImageButton5">
+	<summary>
+Controllo ImageButton5.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.MasterTest.ImageButton3">
+	<summary>
+Controllo ImageButton3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.MasterTest.ImageButton4">
+	<summary>
+Controllo ImageButton4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.MicrosoftArray.Head1">
+	<summary>
+Controllo Head1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.MicrosoftArray.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.MicrosoftArray.GridView1">
+	<summary>
+Controllo GridView1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Carrello1.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Carrello1.Image18">
+	<summary>
+Controllo Image18.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Carrello1.Image21">
+	<summary>
+Controllo Image21.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Carrello1.Image19">
+	<summary>
+Controllo Image19.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Carrello1.Image20">
+	<summary>
+Controllo Image20.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Carrello1.ImageButton2">
+	<summary>
+Controllo ImageButton2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Carrello1.ImageButton5">
+	<summary>
+Controllo ImageButton5.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Carrello1.ImageButton3">
+	<summary>
+Controllo ImageButton3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Carrello1.ImageButton4">
+	<summary>
+Controllo ImageButton4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Carrello1.ImageButton6">
+	<summary>
+Controllo ImageButton6.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Carrello1.ImageButton8">
+	<summary>
+Controllo ImageButton8.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Carrello1.Label4">
+	<summary>
+Controllo Label4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Carrello1.SiteMapPath1">
+	<summary>
+Controllo SiteMapPath1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Carrello1.LoginName2">
+	<summary>
+Controllo LoginName2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Carrello1.LoginStatus1">
+	<summary>
+Controllo LoginStatus1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Carrello1.Label2">
+	<summary>
+Controllo Label2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Carrello1.Label1">
+	<summary>
+Controllo Label1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Carrello1.TextBox1">
+	<summary>
+Controllo TextBox1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Carrello1.Button4">
+	<summary>
+Controllo Button4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Carrello1.Label3">
+	<summary>
+Controllo Label3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Carrello1.Button2">
+	<summary>
+Controllo Button2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Carrello1.Button3">
+	<summary>
+Controllo Button3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Carrello1.GridView2">
+	<summary>
+Controllo GridView2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Carrello1.SqlDataSource1">
+	<summary>
+Controllo SqlDataSource1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.GuidaAlSito.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.GuidaAlSito.Image18">
+	<summary>
+Controllo Image18.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.GuidaAlSito.Image21">
+	<summary>
+Controllo Image21.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.GuidaAlSito.Image19">
+	<summary>
+Controllo Image19.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.GuidaAlSito.Image20">
+	<summary>
+Controllo Image20.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.GuidaAlSito.ImageButton2">
+	<summary>
+Controllo ImageButton2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.GuidaAlSito.ImageButton5">
+	<summary>
+Controllo ImageButton5.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.GuidaAlSito.ImageButton3">
+	<summary>
+Controllo ImageButton3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.GuidaAlSito.ImageButton4">
+	<summary>
+Controllo ImageButton4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.GuidaAlSito.ImageButton6">
+	<summary>
+Controllo ImageButton6.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.GuidaAlSito.ImageButton8">
+	<summary>
+Controllo ImageButton8.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.GuidaAlSito.Label1">
+	<summary>
+Controllo Label1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.GuidaAlSito.SiteMapPath1">
+	<summary>
+Controllo SiteMapPath1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.GuidaAlSito.SiteMapDataSource1">
+	<summary>
+Controllo SiteMapDataSource1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Bckp_Function.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.CarrelloArrayTest1.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.CarrelloArrayTest1.Table1">
+	<summary>
+Controllo Table1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.CarrelloArrayTest1.S">
+	<summary>
+Controllo S.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.FooterTest02.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.RegistrazioneVersion1.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.RegistrazioneVersion1.Image18">
+	<summary>
+Controllo Image18.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.RegistrazioneVersion1.Image21">
+	<summary>
+Controllo Image21.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.RegistrazioneVersion1.Image19">
+	<summary>
+Controllo Image19.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.RegistrazioneVersion1.Image20">
+	<summary>
+Controllo Image20.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.RegistrazioneVersion1.ImageButton2">
+	<summary>
+Controllo ImageButton2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.RegistrazioneVersion1.ImageButton5">
+	<summary>
+Controllo ImageButton5.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.RegistrazioneVersion1.ImageButton3">
+	<summary>
+Controllo ImageButton3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.RegistrazioneVersion1.ImageButton4">
+	<summary>
+Controllo ImageButton4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.RegistrazioneVersion1.SiteMapPath1">
+	<summary>
+Controllo SiteMapPath1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.RegistrazioneVersion1.CreateUserWizard1">
+	<summary>
+Controllo CreateUserWizard1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.RegistrazioneVersion1.Button1">
+	<summary>
+Controllo Button1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.RegistrazioneVersion1.Button2">
+	<summary>
+Controllo Button2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.RegistrazioneVersion1.Button3">
+	<summary>
+Controllo Button3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.FAQ.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.FAQ.Image18">
+	<summary>
+Controllo Image18.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.FAQ.Image21">
+	<summary>
+Controllo Image21.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.FAQ.Image19">
+	<summary>
+Controllo Image19.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.FAQ.Image20">
+	<summary>
+Controllo Image20.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.FAQ.ImageButton2">
+	<summary>
+Controllo ImageButton2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.FAQ.ImageButton5">
+	<summary>
+Controllo ImageButton5.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.FAQ.ImageButton3">
+	<summary>
+Controllo ImageButton3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.FAQ.ImageButton4">
+	<summary>
+Controllo ImageButton4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.FAQ.SiteMapPath1">
+	<summary>
+Controllo SiteMapPath1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InformativaCookie01.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InformativaCookie01.Image18">
+	<summary>
+Controllo Image18.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InformativaCookie01.Image21">
+	<summary>
+Controllo Image21.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InformativaCookie01.Image19">
+	<summary>
+Controllo Image19.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InformativaCookie01.Image20">
+	<summary>
+Controllo Image20.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InformativaCookie01.Button1">
+	<summary>
+Controllo Button1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.RecuperaPw.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.RecuperaPw.Image18">
+	<summary>
+Controllo Image18.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.RecuperaPw.Image21">
+	<summary>
+Controllo Image21.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.RecuperaPw.Image19">
+	<summary>
+Controllo Image19.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.RecuperaPw.Image20">
+	<summary>
+Controllo Image20.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.RecuperaPw.ImageButton2">
+	<summary>
+Controllo ImageButton2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.RecuperaPw.ImageButton5">
+	<summary>
+Controllo ImageButton5.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.RecuperaPw.ImageButton3">
+	<summary>
+Controllo ImageButton3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.RecuperaPw.ImageButton4">
+	<summary>
+Controllo ImageButton4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.RecuperaPw.SiteMapPath1">
+	<summary>
+Controllo SiteMapPath1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.RecuperaPw.PasswordRecovery1">
+	<summary>
+Controllo PasswordRecovery1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.SettingsVersion1.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.SettingsVersion1.Image18">
+	<summary>
+Controllo Image18.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.SettingsVersion1.Image21">
+	<summary>
+Controllo Image21.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.SettingsVersion1.Image19">
+	<summary>
+Controllo Image19.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.SettingsVersion1.Image20">
+	<summary>
+Controllo Image20.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.SettingsVersion1.ImageButton2">
+	<summary>
+Controllo ImageButton2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.SettingsVersion1.ImageButton5">
+	<summary>
+Controllo ImageButton5.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.SettingsVersion1.ImageButton3">
+	<summary>
+Controllo ImageButton3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.SettingsVersion1.ImageButton4">
+	<summary>
+Controllo ImageButton4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.SettingsVersion1.ImageButton6">
+	<summary>
+Controllo ImageButton6.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.SettingsVersion1.SiteMapPath1">
+	<summary>
+Controllo SiteMapPath1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.SettingsVersion1.LoginName2">
+	<summary>
+Controllo LoginName2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.SettingsVersion1.LoginStatus1">
+	<summary>
+Controllo LoginStatus1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.SettingsVersion1.CheckBox1">
+	<summary>
+Controllo CheckBox1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.SettingsVersion1.CheckBox2">
+	<summary>
+Controllo CheckBox2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.SettingsVersion1.CheckBox3">
+	<summary>
+Controllo CheckBox3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.SettingsVersion1.Calendar1">
+	<summary>
+Controllo Calendar1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.AsideTest1.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.CategorieTest1.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.CreativeLinkTest1.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InviaSuggerimento.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InviaSuggerimento.Image18">
+	<summary>
+Controllo Image18.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InviaSuggerimento.Image21">
+	<summary>
+Controllo Image21.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InviaSuggerimento.Image19">
+	<summary>
+Controllo Image19.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InviaSuggerimento.Image20">
+	<summary>
+Controllo Image20.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InviaSuggerimento.ImageButton2">
+	<summary>
+Controllo ImageButton2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InviaSuggerimento.ImageButton5">
+	<summary>
+Controllo ImageButton5.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InviaSuggerimento.ImageButton3">
+	<summary>
+Controllo ImageButton3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InviaSuggerimento.ImageButton4">
+	<summary>
+Controllo ImageButton4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InviaSuggerimento.SiteMapPath1">
+	<summary>
+Controllo SiteMapPath1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InviaSuggerimento.LoginName2">
+	<summary>
+Controllo LoginName2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InviaSuggerimento.LoginStatus1">
+	<summary>
+Controllo LoginStatus1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InviaSuggerimento.TextBox1">
+	<summary>
+Controllo TextBox1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InviaSuggerimento.CheckBox1">
+	<summary>
+Controllo CheckBox1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InviaSuggerimento.CheckBox2">
+	<summary>
+Controllo CheckBox2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InviaSuggerimento.TextBox2">
+	<summary>
+Controllo TextBox2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InviaSuggerimento.Button1">
+	<summary>
+Controllo Button1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.NavigationAnimationTest1.Head1">
+	<summary>
+Controllo Head1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.NavigationAnimationTest1.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Termini_Condizioni.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Termini_Condizioni.Image18">
+	<summary>
+Controllo Image18.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Termini_Condizioni.Image21">
+	<summary>
+Controllo Image21.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Termini_Condizioni.Image19">
+	<summary>
+Controllo Image19.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Termini_Condizioni.Image20">
+	<summary>
+Controllo Image20.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Termini_Condizioni.ImageButton2">
+	<summary>
+Controllo ImageButton2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Termini_Condizioni.ImageButton5">
+	<summary>
+Controllo ImageButton5.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Termini_Condizioni.ImageButton3">
+	<summary>
+Controllo ImageButton3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Termini_Condizioni.ImageButton4">
+	<summary>
+Controllo ImageButton4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Termini_Condizioni.ImageButton6">
+	<summary>
+Controllo ImageButton6.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Termini_Condizioni.ImageButton8">
+	<summary>
+Controllo ImageButton8.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Termini_Condizioni.Button1">
+	<summary>
+Controllo Button1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Test1.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Test1.SqlDataSource1">
+	<summary>
+Controllo SqlDataSource1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Test1.GridView1">
+	<summary>
+Controllo GridView1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Test1.Button1">
+	<summary>
+Controllo Button1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.TopTest1m.form2">
+	<summary>
+Controllo form2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.TopTest1m.Image18">
+	<summary>
+Controllo Image18.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.TopTest1m.Image21">
+	<summary>
+Controllo Image21.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.TopTest1m.Image19">
+	<summary>
+Controllo Image19.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.TopTest1m.Image20">
+	<summary>
+Controllo Image20.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.TopTest1m.Image22">
+	<summary>
+Controllo Image22.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Brand1.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Credits1.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Credits1.Image18">
+	<summary>
+Controllo Image18.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Credits1.Image21">
+	<summary>
+Controllo Image21.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Credits1.Image19">
+	<summary>
+Controllo Image19.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Credits1.Image20">
+	<summary>
+Controllo Image20.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Credits1.ImageButton2">
+	<summary>
+Controllo ImageButton2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Credits1.ImageButton5">
+	<summary>
+Controllo ImageButton5.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Credits1.ImageButton3">
+	<summary>
+Controllo ImageButton3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Credits1.ImageButton4">
+	<summary>
+Controllo ImageButton4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Credits1.ImageButton6">
+	<summary>
+Controllo ImageButton6.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Credits1.SiteMapPath1">
+	<summary>
+Controllo SiteMapPath1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Credits1.LoginName2">
+	<summary>
+Controllo LoginName2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Credits1.LoginStatus1">
+	<summary>
+Controllo LoginStatus1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.Credits1.Button1">
+	<summary>
+Controllo Button1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.GridViewPaging1.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.GridViewPaging1.GridView1">
+	<summary>
+Controllo GridView1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.ChangeLog.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.GridViewTest002.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.GridViewTest002.GridView1">
+	<summary>
+Controllo GridView1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.GridViewTest002.SqlDataSource1">
+	<summary>
+Controllo SqlDataSource1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InfoAssicuraSpedizione.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InfoAssicuraSpedizione.Image18">
+	<summary>
+Controllo Image18.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InfoAssicuraSpedizione.Image21">
+	<summary>
+Controllo Image21.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InfoAssicuraSpedizione.Image19">
+	<summary>
+Controllo Image19.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InfoAssicuraSpedizione.Image20">
+	<summary>
+Controllo Image20.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InfoAssicuraSpedizione.ImageButton2">
+	<summary>
+Controllo ImageButton2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InfoAssicuraSpedizione.ImageButton5">
+	<summary>
+Controllo ImageButton5.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InfoAssicuraSpedizione.ImageButton3">
+	<summary>
+Controllo ImageButton3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InfoAssicuraSpedizione.ImageButton4">
+	<summary>
+Controllo ImageButton4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InfoAssicuraSpedizione.ImageButton6">
+	<summary>
+Controllo ImageButton6.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InfoAssicuraSpedizione.ImageButton8">
+	<summary>
+Controllo ImageButton8.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.InfoAssicuraSpedizione.Button1">
+	<summary>
+Controllo Button1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.TestMenù.head">
+	<summary>
+Controllo head.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.TestMenù.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.TestMenù.ContentPlaceHolder1">
+	<summary>
+Controllo ContentPlaceHolder1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.TestMenù.Button1">
+	<summary>
+Controllo Button1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.TestMenù.Button2">
+	<summary>
+Controllo Button2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.TestMenù.Button3">
+	<summary>
+Controllo Button3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.TestMenù.ContentPlaceHolder2">
+	<summary>
+Controllo ContentPlaceHolder2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.TestMenù.ContentPlaceHolder3">
+	<summary>
+Controllo ContentPlaceHolder3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.UserProfile.form1">
+	<summary>
+Controllo form1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.UserProfile.Image18">
+	<summary>
+Controllo Image18.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.UserProfile.Image21">
+	<summary>
+Controllo Image21.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.UserProfile.Image19">
+	<summary>
+Controllo Image19.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.UserProfile.Image20">
+	<summary>
+Controllo Image20.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.UserProfile.ImageButton2">
+	<summary>
+Controllo ImageButton2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.UserProfile.ImageButton5">
+	<summary>
+Controllo ImageButton5.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.UserProfile.ImageButton3">
+	<summary>
+Controllo ImageButton3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.UserProfile.ImageButton4">
+	<summary>
+Controllo ImageButton4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.UserProfile.ImageButton6">
+	<summary>
+Controllo ImageButton6.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.UserProfile.SiteMapPath1">
+	<summary>
+Controllo SiteMapPath1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.UserProfile.LoginName2">
+	<summary>
+Controllo LoginName2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.UserProfile.LoginStatus1">
+	<summary>
+Controllo LoginStatus1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.UserProfile.LoginName1">
+	<summary>
+Controllo LoginName1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.UserProfile.Button4">
+	<summary>
+Controllo Button4.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.UserProfile.Button5">
+	<summary>
+Controllo Button5.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.UserProfile.Button1">
+	<summary>
+Controllo Button1.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.UserProfile.Button2">
+	<summary>
+Controllo Button2.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member><member name="F:a_Commerce.UserProfile.Button3">
+	<summary>
+Controllo Button3.
+</summary>
+	<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+</members>
+</doc>

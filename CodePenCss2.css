@@ -1,0 +1,58 @@
+﻿@import url(https://fonts.googleapis.com/css?family=Raleway:400,500);
+.snip1155 {
+  font-family: 'Raleway', Arial, sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.snip1155 * {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+}
+.snip1155 li {
+  display: inline-block;
+  list-style: outside none none;
+  margin: 0 0.8em;
+  padding: 0;
+}
+.snip1155 a {
+  display: inline-block;
+  padding: 0.5em 17px;
+  color: rgba(255, 255, 255, 0.5);
+  position: relative;
+  letter-spacing: 1px;
+  text-decoration: none;
+}
+.snip1155 a:before {
+  left: 20%;
+  right: 20%;
+  top: 50%;
+  content: '';
+  border-left: 12px solid #9b59b6;
+  border-right: 12px solid #9b59b6;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  height: 3px;
+  opacity: 0;
+  position: absolute;
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+}
+.snip1155 a:hover,
+.snip1155 .current a {
+  color: #ffffff;
+}
+.snip1155 a:hover:before,
+.snip1155 .current a:before {
+  left: 0;
+  right: 0;
+  opacity: 1;
+}
+
+/* Demo purposes only */
+body {
+  background-color: #212121;
+  padding: 50px 0;
+}

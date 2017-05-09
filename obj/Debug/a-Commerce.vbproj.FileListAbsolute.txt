@@ -1,0 +1,8 @@
+C:\Users\emanuel.pirovano\Desktop\a-Commerce\a-Commerce\bin\a-Commerce.dll
+C:\Users\emanuel.pirovano\Desktop\a-Commerce\a-Commerce\bin\a-Commerce.pdb
+C:\Users\emanuel.pirovano\Desktop\a-Commerce\a-Commerce\bin\a-Commerce.xml
+C:\Users\emanuel.pirovano\Desktop\a-Commerce\a-Commerce\obj\Debug\a_Commerce.Resources.resources
+C:\Users\emanuel.pirovano\Desktop\a-Commerce\a-Commerce\obj\Debug\a-Commerce.vbproj.GenerateResource.Cache
+C:\Users\emanuel.pirovano\Desktop\a-Commerce\a-Commerce\obj\Debug\a-Commerce.dll
+C:\Users\emanuel.pirovano\Desktop\a-Commerce\a-Commerce\obj\Debug\a-Commerce.xml
+C:\Users\emanuel.pirovano\Desktop\a-Commerce\a-Commerce\obj\Debug\a-Commerce.pdb

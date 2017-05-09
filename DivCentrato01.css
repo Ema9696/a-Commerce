@@ -1,0 +1,20 @@
+﻿
+
+/* Stile footer*/
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    margin: 0 0 100px; /* bottom = footer height */
+}
+div {
+    position: absolute;
+    /*background-color: Gray; */
+    left: 17px;
+    bottom: 609px;
+    /*height: 100px; */
+    height: auto;
+    width: 100%;
+}
+/* Fine stile footer*/

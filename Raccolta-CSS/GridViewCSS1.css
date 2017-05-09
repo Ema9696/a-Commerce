@@ -1,0 +1,5 @@
+﻿.gridview {
+    width: 100%; 
+    word-wrap:break-word;
+    table-layout: fixed;
+}

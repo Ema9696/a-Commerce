@@ -1,0 +1,1 @@
+function nascondi() {document.getElementById("cookie").style.display="none";}

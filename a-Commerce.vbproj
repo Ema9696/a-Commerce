@@ -1,0 +1,974 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>
+    </SchemaVersion>
+    <ProjectGuid>{875F9CBD-547A-4839-B6A3-5A59D381CD39}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <RootNamespace>a_Commerce</RootNamespace>
+    <AssemblyName>a-Commerce</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <MyType>Custom</MyType>
+    <UseIISExpress>false</UseIISExpress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>a-Commerce.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>a-Commerce.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Collections.Specialized" />
+    <Import Include="System.Configuration" />
+    <Import Include="System.Text" />
+    <Import Include="System.Text.RegularExpressions" />
+    <Import Include="System.Web" />
+    <Import Include="System.Web.Caching" />
+    <Import Include="System.Web.SessionState" />
+    <Import Include="System.Web.Security" />
+    <Import Include="System.Web.Profile" />
+    <Import Include="System.Web.UI" />
+    <Import Include="System.Web.UI.WebControls" />
+    <Import Include="System.Web.UI.WebControls.WebParts" />
+    <Import Include="System.Web.UI.HtmlControls" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="01tstCSS.css" />
+    <Content Include="3D Buttons\css\style.css" />
+    <Content Include="3D Buttons\index.html" />
+    <Content Include="3dButton1.aspx" />
+    <Content Include="aImage\Doodle_DealsBanner_150x30_New.png" />
+    <Content Include="aImage\Featured_Acqua.jpg" />
+    <Content Include="aImage\test.jpg" />
+    <Content Include="Array1.aspx" />
+    <Content Include="AsideTest1.aspx" />
+    <Content Include="Awesomefooter.css" />
+    <Content Include="AwesomeFooter1.aspx" />
+    <Content Include="BackGround_Test\1.png" />
+    <Content Include="BackGround_Test\BackGround Ballz Green Brown.jpg" />
+    <Content Include="BackGround_Test\BlueNop.jpg" />
+    <Content Include="BackGround_Test\bg.png" />
+    <Content Include="BackGround_Test\slider-bga-Copy.jpg" />
+    <Content Include="BackGround_Test\slider-bga-old.jpg" />
+    <Content Include="BackGround_Test\slider-bga.jpg" />
+    <Content Include="Bckp_Function.aspx" />
+    <Content Include="BottoniPaging.aspx" />
+    <Content Include="BottoniPagingCss1.css" />
+    <Content Include="BrandButtons\Brand1.aspx" />
+    <Content Include="BrandButtons\BrandCss1.css" />
+    <Content Include="CambiaPw.aspx" />
+    <Content Include="Carrello1.aspx" />
+    <Content Include="CarrelloArrayTest1.aspx" />
+    <Content Include="CarrelloWebMaster.aspx" />
+    <Content Include="Catalogo.aspx" />
+    <Content Include="CategorieTest1.aspx" />
+    <Content Include="ChangeLog.aspx" />
+    <Content Include="Checkout1.aspx" />
+    <Content Include="CodePenCss2.css" />
+    <Content Include="CopyCreativeLink1.aspx" />
+    <Content Include="CopyNavigationAnimation1.aspx" />
+    <Content Include="CreativeLinkTest1.aspx" />
+    <Content Include="Credits1.aspx" />
+    <Content Include="css-Test-01\example.css" />
+    <Content Include="css-Test-01\font-awesome.min.css" />
+    <Content Include="css-magnetic\blue.css" />
+    <Content Include="css-magnetic\pink.css" />
+    <Content Include="css-magnetic\StyleSheet.css" />
+    <Content Include="css-menu animated\style.css" />
+    <Content Include="css\component.css" />
+    <Content Include="css\demo.css" />
+    <Content Include="css\normalize.css" />
+    <Content Include="DettaglioAquisto.aspx" />
+    <Content Include="DivCentrato.css" />
+    <Content Include="DivCentrato01.css" />
+    <Content Include="DropDownMenù.aspx" />
+    <Content Include="FAQ.aspx" />
+    <Content Include="favicon.ico" />
+    <Content Include="fonts\codropsicons\codropsicons.svg" />
+    <Content Include="fonts\codropsicons\license.txt" />
+    <Content Include="FontTest.aspx" />
+    <Content Include="FontTest01.aspx" />
+    <Content Include="FontTest01CSS.css" />
+    <Content Include="FooterTest02.aspx" />
+    <Content Include="FooterTest02.css" />
+    <Content Include="FooterTest1.aspx" />
+    <Content Include="FooterTest1.css" />
+    <Content Include="GestioneUtenti\Register.aspx" />
+    <Content Include="GridViewPaging1.aspx" />
+    <Content Include="InformativaCookie01.aspx" />
+    <Content Include="MicrosoftArray.aspx" />
+    <Content Include="ShowIP.aspx" />
+    <Content Include="VB.aspx" />
+    <Content Include="PenShopCartCode\css\style.css" />
+    <Content Include="PenShopCartCode\index.html" />
+    <Content Include="PopUpVignetta1.aspx" />
+    <Content Include="PopUpVignettaCSS1.css" />
+    <Content Include="PopUpVignettaJS1.js" />
+    <Content Include="PrivacyPopUp\css\style.css" />
+    <Content Include="PrivacyPopUp\index.html" />
+    <Content Include="PrivacyPopUp\js\index.js" />
+    <Content Include="PrivacyPopUp\license.txt" />
+    <Content Include="PrivacyPopUp\README.txt" />
+    <Content Include="Raccolta-CSS\GridViewCSS1.css" />
+    <Content Include="Raccolta-CSS\GridViewCSSparallelecodes1.css" />
+    <Content Include="GridViewTest002.aspx" />
+    <Content Include="GuidaAlSito.aspx" />
+    <Content Include="HomePage.aspx" />
+    <Content Include="HTMLPage1.htm" />
+    <Content Include="ImageArpa\Arpa_big.png" />
+    <Content Include="ImageArpa\Arpa_big1.bmp" />
+    <Content Include="ImageArpa\Arpa_medium.bmp" />
+    <Content Include="ImageArpa\Arpa_small.jpg" />
+    <Content Include="images\menubtn.png" />
+    <Content Include="ImageVB.aspx" />
+    <Content Include="Image\1489411155_search.png" />
+    <Content Include="Image\1489415377_home.png" />
+    <Content Include="Image\1489415630_user.png" />
+    <Content Include="Image\1489416013_settings.png" />
+    <Content Include="Image\1489431596_money.png" />
+    <Content Include="Image\1490212478_shopping-cart.png" />
+    <Content Include="Image\buy_now_button.png" />
+    <Content Include="Image\faq.png" />
+    <Content Include="Image\pulsante_ricerca.png" />
+    <Content Include="Image\search-icon-psd-magnifying-glass-45950.jpg" />
+    <Content Include="img\example-slide-1.jpg" />
+    <Content Include="img\btns-next-prev.png" />
+    <Content Include="img\example-slide-2.jpg" />
+    <Content Include="img\example-slide-3.jpg" />
+    <Content Include="img\example-slide-4.jpg" />
+    <Content Include="img\pagination.png" />
+    <Content Include="InfoAssicuraSpedizione.aspx" />
+    <Content Include="InviaSuggerimento.aspx" />
+    <Content Include="jquery.slides.js" />
+    <Content Include="jquery.slides.min.js" />
+    <Content Include="js-magnetic\jquery.min.js" />
+    <Content Include="js\index.js" />
+    <Content Include="js\modernizr.custom.js" />
+    <Content Include="LoginVersion1.aspx" />
+    <Content Include="MarkupMenu.css" />
+    <Content Include="MasterTest.aspx" />
+    <Content Include="MasterTest1.aspx" />
+    <Content Include="MenùMarkup.aspx" />
+    <Content Include="NavigationAnimationTest1.aspx" />
+    <Content Include="NewHomePage.aspx" />
+    <Content Include="OrdineEffettuato1.aspx" />
+    <Content Include="Ranking.aspx" />
+    <Content Include="RecuperaPw.aspx" />
+    <Content Include="RegistrazioneVersion1.aspx" />
+    <Content Include="SettingsVersion1.aspx" />
+    <Content Include="shop-cartTMPLT\about_us.aspx" />
+    <Content Include="shop-cartTMPLT\assets\css\bootstrap-responsive.css" />
+    <Content Include="shop-cartTMPLT\assets\css\bootstrap-responsive.min.css" />
+    <Content Include="shop-cartTMPLT\assets\css\bootstrap.css" />
+    <Content Include="shop-cartTMPLT\assets\css\bootstrap.min.css" />
+    <Content Include="shop-cartTMPLT\assets\font-awesome\css\font-awesome-ie7.css" />
+    <Content Include="shop-cartTMPLT\assets\font-awesome\css\font-awesome-ie7.min.css" />
+    <Content Include="shop-cartTMPLT\assets\font-awesome\css\font-awesome.css" />
+    <Content Include="shop-cartTMPLT\assets\font-awesome\css\font-awesome.min.css" />
+    <Content Include="shop-cartTMPLT\assets\font-awesome\font\fontawesome-webfont.svg" />
+    <Content Include="shop-cartTMPLT\assets\ico\favicon.ico" />
+    <Content Include="shop-cartTMPLT\assets\img\1.png" />
+    <Content Include="shop-cartTMPLT\assets\img\2.png" />
+    <Content Include="shop-cartTMPLT\assets\img\3.png" />
+    <Content Include="shop-cartTMPLT\assets\img\4.png" />
+    <Content Include="shop-cartTMPLT\assets\img\5.png" />
+    <Content Include="shop-cartTMPLT\assets\img\6.png" />
+    <Content Include="shop-cartTMPLT\assets\img\a.jpg" />
+    <Content Include="shop-cartTMPLT\assets\img\ax.png" />
+    <Content Include="shop-cartTMPLT\assets\img\b.jpg" />
+    <Content Include="shop-cartTMPLT\assets\img\bootstrap-ecommerce-templates.PNG" />
+    <Content Include="shop-cartTMPLT\assets\img\bootstrap-ring.png" />
+    <Content Include="shop-cartTMPLT\assets\img\bootstrap-template.png" />
+    <Content Include="shop-cartTMPLT\assets\img\bootstrap-templates.png" />
+    <Content Include="shop-cartTMPLT\assets\img\bootstrappage_shop.png" />
+    <Content Include="shop-cartTMPLT\assets\img\bootstrap_free-ecommerce.png" />
+    <Content Include="shop-cartTMPLT\assets\img\c.jpg" />
+    <Content Include="shop-cartTMPLT\assets\img\carousel1.png" />
+    <Content Include="shop-cartTMPLT\assets\img\carousel3.png" />
+    <Content Include="shop-cartTMPLT\assets\img\d.jpg" />
+    <Content Include="shop-cartTMPLT\assets\img\disc.png" />
+    <Content Include="shop-cartTMPLT\assets\img\e.jpg" />
+    <Content Include="shop-cartTMPLT\assets\img\f.jpg" />
+    <Content Include="shop-cartTMPLT\assets\img\g.jpg" />
+    <Content Include="shop-cartTMPLT\assets\img\h.jpg" />
+    <Content Include="shop-cartTMPLT\assets\img\i.jpg" />
+    <Content Include="shop-cartTMPLT\assets\img\j.jpg" />
+    <Content Include="shop-cartTMPLT\assets\img\logo-bootstrap-shoping-cart.png" />
+    <Content Include="shop-cartTMPLT\assets\img\maestro.png" />
+    <Content Include="shop-cartTMPLT\assets\img\mc.png" />
+    <Content Include="shop-cartTMPLT\assets\img\new.png" />
+    <Content Include="shop-cartTMPLT\assets\img\paypal.jpg" />
+    <Content Include="shop-cartTMPLT\assets\img\pp.png" />
+    <Content Include="shop-cartTMPLT\assets\img\s.png" />
+    <Content Include="shop-cartTMPLT\assets\img\shop-cart.PNG" />
+    <Content Include="shop-cartTMPLT\assets\img\shopping-cart-template.PNG" />
+    <Content Include="shop-cartTMPLT\assets\img\visa.png" />
+    <Content Include="shop-cartTMPLT\assets\img\white_leather.png" />
+    <Content Include="shop-cartTMPLT\assets\js\bootstrap.js" />
+    <Content Include="shop-cartTMPLT\assets\js\bootstrap.min.js" />
+    <Content Include="shop-cartTMPLT\assets\js\jquery.easing-1.3.min.js" />
+    <Content Include="shop-cartTMPLT\assets\js\jquery.js" />
+    <Content Include="shop-cartTMPLT\assets\js\jquery.scrollTo-1.4.3.1-min.js" />
+    <Content Include="shop-cartTMPLT\assets\js\shop.js" />
+    <Content Include="shop-cartTMPLT\cart.aspx" />
+    <Content Include="shop-cartTMPLT\compair.aspx" />
+    <Content Include="shop-cartTMPLT\contact.aspx" />
+    <Content Include="shop-cartTMPLT\favicon.ico" />
+    <Content Include="shop-cartTMPLT\footer.aspx" />
+    <Content Include="shop-cartTMPLT\forget_password.aspx" />
+    <Content Include="shop-cartTMPLT\four-col.aspx" />
+    <Content Include="shop-cartTMPLT\general.aspx" />
+    <Content Include="shop-cartTMPLT\grid-view.aspx" />
+    <Content Include="shop-cartTMPLT\header.aspx" />
+    <Content Include="shop-cartTMPLT\index.aspx" />
+    <Content Include="shop-cartTMPLT\list-view.aspx" />
+    <Content Include="shop-cartTMPLT\login.aspx" />
+    <Content Include="shop-cartTMPLT\products.aspx" />
+    <Content Include="shop-cartTMPLT\product_details.aspx" />
+    <Content Include="shop-cartTMPLT\register.aspx" />
+    <Content Include="shop-cartTMPLT\sidebar.aspx" />
+    <Content Include="shop-cartTMPLT\style.css" />
+    <Content Include="shop-cartTMPLT\three-col.aspx" />
+    <Content Include="Shop-itemTEMPLATE\css\animated.css" />
+    <Content Include="Shop-itemTEMPLATE\css\bootstrap.css" />
+    <Content Include="Shop-itemTEMPLATE\css\bootstrap.min.css" />
+    <Content Include="Shop-itemTEMPLATE\css\font-awesome.min.css" />
+    <Content Include="Shop-itemTEMPLATE\css\shop-item.css" />
+    <Content Include="Shop-itemTEMPLATE\fonts\fontawesome-webfont.svg" />
+    <Content Include="Shop-itemTEMPLATE\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Shop-itemTEMPLATE\img\01.jpg" />
+    <Content Include="Shop-itemTEMPLATE\img\ad.jpg" />
+    <Content Include="Shop-itemTEMPLATE\img\ad2.jpg" />
+    <Content Include="Shop-itemTEMPLATE\img\blue.jpg" />
+    <Content Include="Shop-itemTEMPLATE\img\slide1-1.png" />
+    <Content Include="Shop-itemTEMPLATE\img\slide1-2.png" />
+    <Content Include="Shop-itemTEMPLATE\img\slide1-3.png" />
+    <Content Include="Shop-itemTEMPLATE\index.aspx" />
+    <Content Include="Shop-itemTEMPLATE\index.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+    <Content Include="Shop-itemTEMPLATE\js\bootstrap.js" />
+    <Content Include="Shop-itemTEMPLATE\js\bootstrap.min.js" />
+    <Content Include="Shop-itemTEMPLATE\js\jquery.easing.min.js" />
+    <Content Include="Shop-itemTEMPLATE\js\jquery.js" />
+    <Content Include="Shop-itemTEMPLATE\js\scrolling-nav.js" />
+    <Content Include="SimpleFooter.css" />
+    <Content Include="SimpleFooterTest1.aspx" />
+    <Content Include="SlideHtml.aspx" />
+    <Content Include="Slides-SlidesJS-3\.gitignore" />
+    <Content Include="Slides-SlidesJS-3\examples\basic-fade\img\example-slide-1.jpg" />
+    <Content Include="Slides-SlidesJS-3\examples\basic-fade\img\example-slide-2.jpg" />
+    <Content Include="Slides-SlidesJS-3\examples\basic-fade\img\example-slide-3.jpg" />
+    <Content Include="Slides-SlidesJS-3\examples\basic-fade\img\example-slide-4.jpg" />
+    <Content Include="Slides-SlidesJS-3\examples\basic-fade\index.html" />
+    <Content Include="Slides-SlidesJS-3\examples\basic-fade\js\jquery.slides.min.js" />
+    <Content Include="Slides-SlidesJS-3\examples\basic-slide\img\example-slide-1.jpg" />
+    <Content Include="Slides-SlidesJS-3\examples\basic-slide\img\example-slide-2.jpg" />
+    <Content Include="Slides-SlidesJS-3\examples\basic-slide\img\example-slide-3.jpg" />
+    <Content Include="Slides-SlidesJS-3\examples\basic-slide\img\example-slide-4.jpg" />
+    <Content Include="Slides-SlidesJS-3\examples\basic-slide\index.html" />
+    <Content Include="Slides-SlidesJS-3\examples\basic-slide\js\jquery.slides.min.js" />
+    <Content Include="Slides-SlidesJS-3\examples\callbacks\img\example-slide-1.jpg" />
+    <Content Include="Slides-SlidesJS-3\examples\callbacks\img\example-slide-2.jpg" />
+    <Content Include="Slides-SlidesJS-3\examples\callbacks\img\example-slide-3.jpg" />
+    <Content Include="Slides-SlidesJS-3\examples\callbacks\img\example-slide-4.jpg" />
+    <Content Include="Slides-SlidesJS-3\examples\callbacks\index.html" />
+    <Content Include="Slides-SlidesJS-3\examples\callbacks\js\jquery.slides.min.js" />
+    <Content Include="Slides-SlidesJS-3\examples\multiple\css\example.css" />
+    <Content Include="Slides-SlidesJS-3\examples\multiple\css\font-awesome.min.css" />
+    <Content Include="Slides-SlidesJS-3\examples\multiple\font\fontawesome-webfont.svg" />
+    <Content Include="Slides-SlidesJS-3\examples\multiple\img\example-slide-1.jpg" />
+    <Content Include="Slides-SlidesJS-3\examples\multiple\img\example-slide-2.jpg" />
+    <Content Include="Slides-SlidesJS-3\examples\multiple\img\example-slide-3.jpg" />
+    <Content Include="Slides-SlidesJS-3\examples\multiple\img\example-slide-4.jpg" />
+    <Content Include="Slides-SlidesJS-3\examples\multiple\img\pagination.png" />
+    <Content Include="Slides-SlidesJS-3\examples\multiple\index.html" />
+    <Content Include="Slides-SlidesJS-3\examples\multiple\js\jquery.slides.min.js" />
+    <Content Include="Slides-SlidesJS-3\examples\playing\css\example.css" />
+    <Content Include="Slides-SlidesJS-3\examples\playing\css\font-awesome.min.css" />
+    <Content Include="Slides-SlidesJS-3\examples\playing\font\fontawesome-webfont.svg" />
+    <Content Include="Slides-SlidesJS-3\examples\playing\img\btns-next-prev.png" />
+    <Content Include="Slides-SlidesJS-3\examples\playing\img\example-slide-1.jpg" />
+    <Content Include="Slides-SlidesJS-3\examples\playing\img\example-slide-2.jpg" />
+    <Content Include="Slides-SlidesJS-3\examples\playing\img\example-slide-3.jpg" />
+    <Content Include="Slides-SlidesJS-3\examples\playing\img\example-slide-4.jpg" />
+    <Content Include="Slides-SlidesJS-3\examples\playing\img\pagination.png" />
+    <Content Include="Slides-SlidesJS-3\examples\playing\index.html" />
+    <Content Include="Slides-SlidesJS-3\examples\playing\js\jquery.slides.min.js" />
+    <Content Include="Slides-SlidesJS-3\examples\standard\css\example.css" />
+    <Content Include="Slides-SlidesJS-3\examples\standard\css\font-awesome.min.css" />
+    <Content Include="Slides-SlidesJS-3\examples\standard\font\fontawesome-webfont.svg" />
+    <Content Include="Slides-SlidesJS-3\examples\standard\img\example-slide-1.jpg" />
+    <Content Include="Slides-SlidesJS-3\examples\standard\img\example-slide-2.jpg" />
+    <Content Include="Slides-SlidesJS-3\examples\standard\img\example-slide-3.jpg" />
+    <Content Include="Slides-SlidesJS-3\examples\standard\img\example-slide-4.jpg" />
+    <Content Include="Slides-SlidesJS-3\examples\standard\img\pagination.png" />
+    <Content Include="Slides-SlidesJS-3\examples\standard\index.html" />
+    <Content Include="Slides-SlidesJS-3\examples\standard\js\jquery.slides.min.js" />
+    <Content Include="Slides-SlidesJS-3\source\jquery.slides.js" />
+    <Content Include="Slides-SlidesJS-3\source\jquery.slides.min.js" />
+    <Content Include="SplashTest1.aspx" />
+    <Content Include="Sponsor_Image\1287x929_vodafone_logo.jpg" />
+    <Content Include="Sponsor_Image\8867.Microsoft_5F00_Logo_2D00_for_2D00_screen.jpg" />
+    <Content Include="Sponsor_Image\Google_2015_logo.svg.png" />
+    <Content Include="StoricoOrdini.aspx" />
+    <Content Include="Termini-Condizioni.aspx" />
+    <Content Include="Test1.aspx" />
+    <Content Include="Sponsor_Image\FedEx_Logo_s.gif" />
+    <Content Include="Sponsor_Image\Logo_Bartolini_s.png" />
+    <Content Include="TestHomePage1.aspx" />
+    <Content Include="TestHomePage2.aspx" />
+    <Content Include="TestMagneticButton.aspx" />
+    <Content Include="TopTest1m.aspx" />
+    <Content Include="UserProfile.aspx" />
+    <Content Include="VediCarrello.aspx" />
+    <Content Include="Vendita.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="3dButton1.aspx.designer.vb">
+      <DependentUpon>3dButton1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="3dButton1.aspx.vb">
+      <DependentUpon>3dButton1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Array1.aspx.designer.vb">
+      <DependentUpon>Array1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Array1.aspx.vb">
+      <DependentUpon>Array1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="AsideTest1.aspx.designer.vb">
+      <DependentUpon>AsideTest1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AsideTest1.aspx.vb">
+      <DependentUpon>AsideTest1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="AwesomeFooter1.aspx.designer.vb">
+      <DependentUpon>AwesomeFooter1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AwesomeFooter1.aspx.vb">
+      <DependentUpon>AwesomeFooter1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Bckp_Function.aspx.designer.vb">
+      <DependentUpon>Bckp_Function.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bckp_Function.aspx.vb">
+      <DependentUpon>Bckp_Function.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="BottoniPaging.aspx.designer.vb">
+      <DependentUpon>BottoniPaging.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BottoniPaging.aspx.vb">
+      <DependentUpon>BottoniPaging.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="BrandButtons\Brand1.aspx.designer.vb">
+      <DependentUpon>Brand1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BrandButtons\Brand1.aspx.vb">
+      <DependentUpon>Brand1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="CambiaPw.aspx.designer.vb">
+      <DependentUpon>CambiaPw.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CambiaPw.aspx.vb">
+      <DependentUpon>CambiaPw.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Carrello1.aspx.designer.vb">
+      <DependentUpon>Carrello1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Carrello1.aspx.vb">
+      <DependentUpon>Carrello1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="CarrelloArrayTest1.aspx.designer.vb">
+      <DependentUpon>CarrelloArrayTest1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CarrelloArrayTest1.aspx.vb">
+      <DependentUpon>CarrelloArrayTest1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="CarrelloWebMaster.aspx.designer.vb">
+      <DependentUpon>CarrelloWebMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CarrelloWebMaster.aspx.vb">
+      <DependentUpon>CarrelloWebMaster.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Catalogo.aspx.designer.vb">
+      <DependentUpon>Catalogo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Catalogo.aspx.vb">
+      <DependentUpon>Catalogo.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="CategorieTest1.aspx.designer.vb">
+      <DependentUpon>CategorieTest1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CategorieTest1.aspx.vb">
+      <DependentUpon>CategorieTest1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ChangeLog.aspx.designer.vb">
+      <DependentUpon>ChangeLog.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeLog.aspx.vb">
+      <DependentUpon>ChangeLog.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Checkout1.aspx.designer.vb">
+      <DependentUpon>Checkout1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Checkout1.aspx.vb">
+      <DependentUpon>Checkout1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="CopyCreativeLink1.aspx.designer.vb">
+      <DependentUpon>CopyCreativeLink1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CopyCreativeLink1.aspx.vb">
+      <DependentUpon>CopyCreativeLink1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="CopyNavigationAnimation1.aspx.designer.vb">
+      <DependentUpon>CopyNavigationAnimation1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CopyNavigationAnimation1.aspx.vb">
+      <DependentUpon>CopyNavigationAnimation1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="CreativeLinkTest1.aspx.designer.vb">
+      <DependentUpon>CreativeLinkTest1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CreativeLinkTest1.aspx.vb">
+      <DependentUpon>CreativeLinkTest1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Credits1.aspx.designer.vb">
+      <DependentUpon>Credits1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Credits1.aspx.vb">
+      <DependentUpon>Credits1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="DettaglioAquisto.aspx.designer.vb">
+      <DependentUpon>DettaglioAquisto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DettaglioAquisto.aspx.vb">
+      <DependentUpon>DettaglioAquisto.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="DropDownMenù.aspx.designer.vb">
+      <DependentUpon>DropDownMenù.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DropDownMenù.aspx.vb">
+      <DependentUpon>DropDownMenù.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FAQ.aspx.designer.vb">
+      <DependentUpon>FAQ.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FAQ.aspx.vb">
+      <DependentUpon>FAQ.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FontTest.aspx.designer.vb">
+      <DependentUpon>FontTest.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FontTest.aspx.vb">
+      <DependentUpon>FontTest.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FontTest01.aspx.designer.vb">
+      <DependentUpon>FontTest01.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FontTest01.aspx.vb">
+      <DependentUpon>FontTest01.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FooterTest02.aspx.designer.vb">
+      <DependentUpon>FooterTest02.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FooterTest02.aspx.vb">
+      <DependentUpon>FooterTest02.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FooterTest1.aspx.designer.vb">
+      <DependentUpon>FooterTest1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FooterTest1.aspx.vb">
+      <DependentUpon>FooterTest1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="GestioneUtenti\Register.aspx.designer.vb">
+      <DependentUpon>Register.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GestioneUtenti\Register.aspx.vb">
+      <DependentUpon>Register.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="GridViewPaging1.aspx.designer.vb">
+      <DependentUpon>GridViewPaging1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GridViewPaging1.aspx.vb">
+      <DependentUpon>GridViewPaging1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="GridViewTest002.aspx.designer.vb">
+      <DependentUpon>GridViewTest002.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GridViewTest002.aspx.vb">
+      <DependentUpon>GridViewTest002.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="GuidaAlSito.aspx.designer.vb">
+      <DependentUpon>GuidaAlSito.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GuidaAlSito.aspx.vb">
+      <DependentUpon>GuidaAlSito.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="HomePage.aspx.designer.vb">
+      <DependentUpon>HomePage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HomePage.aspx.vb">
+      <DependentUpon>HomePage.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ImageVB.aspx.designer.vb">
+      <DependentUpon>ImageVB.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ImageVB.aspx.vb">
+      <DependentUpon>ImageVB.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="InfoAssicuraSpedizione.aspx.designer.vb">
+      <DependentUpon>InfoAssicuraSpedizione.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="InfoAssicuraSpedizione.aspx.vb">
+      <DependentUpon>InfoAssicuraSpedizione.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="InformativaCookie01.aspx.designer.vb">
+      <DependentUpon>InformativaCookie01.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="InformativaCookie01.aspx.vb">
+      <DependentUpon>InformativaCookie01.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="InviaSuggerimento.aspx.designer.vb">
+      <DependentUpon>InviaSuggerimento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="InviaSuggerimento.aspx.vb">
+      <DependentUpon>InviaSuggerimento.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="LoginVersion1.aspx.designer.vb">
+      <DependentUpon>LoginVersion1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LoginVersion1.aspx.vb">
+      <DependentUpon>LoginVersion1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="MasterTest.aspx.designer.vb">
+      <DependentUpon>MasterTest.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MasterTest.aspx.vb">
+      <DependentUpon>MasterTest.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="MasterTest1.aspx.designer.vb">
+      <DependentUpon>MasterTest1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MasterTest1.aspx.vb">
+      <DependentUpon>MasterTest1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="MenùMarkup.aspx.designer.vb">
+      <DependentUpon>MenùMarkup.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MenùMarkup.aspx.vb">
+      <DependentUpon>MenùMarkup.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="MicrosoftArray.aspx.designer.vb">
+      <DependentUpon>MicrosoftArray.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MicrosoftArray.aspx.vb">
+      <DependentUpon>MicrosoftArray.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\MyExtensions\MyWebExtension.vb">
+      <VBMyExtensionTemplateID>Microsoft.VisualBasic.Web.MyExtension</VBMyExtensionTemplateID>
+      <VBMyExtensionTemplateVersion>1.0.0.0</VBMyExtensionTemplateVersion>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="NavigationAnimationTest1.aspx.designer.vb">
+      <DependentUpon>NavigationAnimationTest1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="NavigationAnimationTest1.aspx.vb">
+      <DependentUpon>NavigationAnimationTest1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="NewHomePage.aspx.designer.vb">
+      <DependentUpon>NewHomePage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="NewHomePage.aspx.vb">
+      <DependentUpon>NewHomePage.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="OrdineEffettuato1.aspx.designer.vb">
+      <DependentUpon>OrdineEffettuato1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OrdineEffettuato1.aspx.vb">
+      <DependentUpon>OrdineEffettuato1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ShowIP.aspx.designer.vb">
+      <DependentUpon>ShowIP.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ShowIP.aspx.vb">
+      <DependentUpon>ShowIP.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VB.aspx.vb">
+      <DependentUpon>VB.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PopUpVignetta1.aspx.designer.vb">
+      <DependentUpon>PopUpVignetta1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PopUpVignetta1.aspx.vb">
+      <DependentUpon>PopUpVignetta1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Ranking.aspx.designer.vb">
+      <DependentUpon>Ranking.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Ranking.aspx.vb">
+      <DependentUpon>Ranking.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="RecuperaPw.aspx.designer.vb">
+      <DependentUpon>RecuperaPw.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RecuperaPw.aspx.vb">
+      <DependentUpon>RecuperaPw.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="RegistrazioneVersion1.aspx.designer.vb">
+      <DependentUpon>RegistrazioneVersion1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrazioneVersion1.aspx.vb">
+      <DependentUpon>RegistrazioneVersion1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="SettingsVersion1.aspx.designer.vb">
+      <DependentUpon>SettingsVersion1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SettingsVersion1.aspx.vb">
+      <DependentUpon>SettingsVersion1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="SimpleFooterTest1.aspx.designer.vb">
+      <DependentUpon>SimpleFooterTest1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SimpleFooterTest1.aspx.vb">
+      <DependentUpon>SimpleFooterTest1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Site1.Master.designer.vb">
+      <DependentUpon>Site1.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Site1.Master.vb">
+      <DependentUpon>Site1.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SlideHtml.aspx.designer.vb">
+      <DependentUpon>SlideHtml.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SlideHtml.aspx.vb">
+      <DependentUpon>SlideHtml.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="SplashTest1.aspx.designer.vb">
+      <DependentUpon>SplashTest1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SplashTest1.aspx.vb">
+      <DependentUpon>SplashTest1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="StoricoOrdini.aspx.designer.vb">
+      <DependentUpon>StoricoOrdini.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="StoricoOrdini.aspx.vb">
+      <DependentUpon>StoricoOrdini.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Termini-Condizioni.aspx.designer.vb">
+      <DependentUpon>Termini-Condizioni.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Termini-Condizioni.aspx.vb">
+      <DependentUpon>Termini-Condizioni.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Test1.aspx.designer.vb">
+      <DependentUpon>Test1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Test1.aspx.vb">
+      <DependentUpon>Test1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="TestHomePage1.aspx.designer.vb">
+      <DependentUpon>TestHomePage1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TestHomePage1.aspx.vb">
+      <DependentUpon>TestHomePage1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="TestHomePage2.aspx.designer.vb">
+      <DependentUpon>TestHomePage2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TestHomePage2.aspx.vb">
+      <DependentUpon>TestHomePage2.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="TestMagneticButton.aspx.designer.vb">
+      <DependentUpon>TestMagneticButton.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TestMagneticButton.aspx.vb">
+      <DependentUpon>TestMagneticButton.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="TestMenù.Master.designer.vb">
+      <DependentUpon>TestMenù.Master</DependentUpon>
+    </Compile>
+    <Compile Include="TestMenù.Master.vb">
+      <DependentUpon>TestMenù.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TopTest1m.aspx.designer.vb">
+      <DependentUpon>TopTest1m.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TopTest1m.aspx.vb">
+      <DependentUpon>TopTest1m.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="UserProfile.aspx.designer.vb">
+      <DependentUpon>UserProfile.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserProfile.aspx.vb">
+      <DependentUpon>UserProfile.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="VediCarrello.aspx.designer.vb">
+      <DependentUpon>VediCarrello.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VediCarrello.aspx.vb">
+      <DependentUpon>VediCarrello.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Vendita.aspx.designer.vb">
+      <DependentUpon>Vendita.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vendita.aspx.vb">
+      <DependentUpon>Vendita.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="3D Buttons\scss\style.scss" />
+    <None Include="css\.DS_Store" />
+    <None Include="fonts\.DS_Store" />
+    <None Include="fonts\codropsicons\.DS_Store" />
+    <None Include="fonts\codropsicons\codropsicons.eot" />
+    <None Include="fonts\codropsicons\codropsicons.ttf" />
+    <None Include="fonts\codropsicons\codropsicons.woff" />
+    <None Include="jquery.slides.coffee" />
+    <None Include="js\.DS_Store" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <Content Include="Web.sitemap">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Site1.Master" />
+    <Content Include="TestMenù.Master" />
+    <Content Include="WebTest.config" />
+    <None Include="shop-cartTMPLT\assets\font-awesome\font\fontawesome-webfont.eot" />
+    <None Include="shop-cartTMPLT\assets\font-awesome\font\fontawesome-webfont.ttf" />
+    <None Include="shop-cartTMPLT\assets\font-awesome\font\fontawesome-webfont.woff" />
+    <None Include="shop-cartTMPLT\assets\font-awesome\font\FontAwesome.otf" />
+    <None Include="shop-cartTMPLT\assets\font-awesome\less\bootstrap.less" />
+    <None Include="shop-cartTMPLT\assets\font-awesome\less\core.less" />
+    <None Include="shop-cartTMPLT\assets\font-awesome\less\extras.less" />
+    <None Include="shop-cartTMPLT\assets\font-awesome\less\font-awesome-ie7.less" />
+    <None Include="shop-cartTMPLT\assets\font-awesome\less\font-awesome.less" />
+    <None Include="shop-cartTMPLT\assets\font-awesome\less\icons.less" />
+    <None Include="shop-cartTMPLT\assets\font-awesome\less\mixins.less" />
+    <None Include="shop-cartTMPLT\assets\font-awesome\less\path.less" />
+    <None Include="shop-cartTMPLT\assets\font-awesome\less\variables.less" />
+    <None Include="shop-cartTMPLT\assets\font-awesome\scss\font-awesome-ie7.scss" />
+    <None Include="shop-cartTMPLT\assets\font-awesome\scss\font-awesome.scss" />
+    <None Include="shop-cartTMPLT\assets\font-awesome\scss\_bootstrap.scss" />
+    <None Include="shop-cartTMPLT\assets\font-awesome\scss\_core.scss" />
+    <None Include="shop-cartTMPLT\assets\font-awesome\scss\_extras.scss" />
+    <None Include="shop-cartTMPLT\assets\font-awesome\scss\_icons.scss" />
+    <None Include="shop-cartTMPLT\assets\font-awesome\scss\_mixins.scss" />
+    <None Include="shop-cartTMPLT\assets\font-awesome\scss\_path.scss" />
+    <None Include="shop-cartTMPLT\assets\font-awesome\scss\_variables.scss" />
+    <None Include="Shop-itemTEMPLATE\fonts\fontawesome-webfont.eot" />
+    <None Include="Shop-itemTEMPLATE\fonts\fontawesome-webfont.ttf" />
+    <None Include="Shop-itemTEMPLATE\fonts\fontawesome-webfont.woff" />
+    <None Include="Shop-itemTEMPLATE\fonts\FontAwesome.otf" />
+    <None Include="Shop-itemTEMPLATE\fonts\glyphicons-halflings-regular.eot" />
+    <None Include="Shop-itemTEMPLATE\fonts\glyphicons-halflings-regular.ttf" />
+    <None Include="Shop-itemTEMPLATE\fonts\glyphicons-halflings-regular.woff" />
+    <None Include="Shop-itemTEMPLATE\fonts\glyphicons-halflings-regular.woff2" />
+    <None Include="Slides-SlidesJS-3\examples\multiple\font\fontawesome-webfont.eot" />
+    <None Include="Slides-SlidesJS-3\examples\multiple\font\fontawesome-webfont.ttf" />
+    <None Include="Slides-SlidesJS-3\examples\multiple\font\fontawesome-webfont.woff" />
+    <None Include="Slides-SlidesJS-3\examples\multiple\font\FontAwesome.otf" />
+    <None Include="Slides-SlidesJS-3\examples\playing\font\fontawesome-webfont.eot" />
+    <None Include="Slides-SlidesJS-3\examples\playing\font\fontawesome-webfont.ttf" />
+    <None Include="Slides-SlidesJS-3\examples\playing\font\fontawesome-webfont.woff" />
+    <None Include="Slides-SlidesJS-3\examples\playing\font\FontAwesome.otf" />
+    <None Include="Slides-SlidesJS-3\examples\standard\font\fontawesome-webfont.eot" />
+    <None Include="Slides-SlidesJS-3\examples\standard\font\fontawesome-webfont.ttf" />
+    <None Include="Slides-SlidesJS-3\examples\standard\font\fontawesome-webfont.woff" />
+    <None Include="Slides-SlidesJS-3\examples\standard\font\FontAwesome.otf" />
+    <None Include="Slides-SlidesJS-3\README.textile" />
+    <None Include="Slides-SlidesJS-3\source\jquery.slides.coffee" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ImgPath\" />
+    <Folder Include="Paging Grid View\" />
+    <Folder Include="Session\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>22723</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="homepage.aspx" title="HomePage"  description="Pagina di HomePage">
+        <siteMapNode url="Catalogo.aspx" title="Catalogo"  description="Catalogo" />
+        <siteMapNode url="Vendita.aspx" title="Vendita"  description="Vendita oggetti" />
+      <siteMapNode url="UserProfile.aspx" title="Profilo Utente"  description="ProfiloUtente" />
+      <siteMapNode url="SettingsVersion1.aspx" title="Impostazioni"  description="Impostazioni" />
+      <siteMapNode url="RegistrazioneVersion1.aspx" title="Registrazione"  description="Registrazione" />
+      <siteMapNode url="LoginVersion1.aspx" title="Login"  description="Login" />
+      <siteMapNode url="CambiaPw.aspx" title="CambiaPassword"  description="Cambia Password" />
+      <siteMapNode url="RecuperaPw.aspx" title="Recupera Password"  description="Recupera Password" />
+      <siteMapNode url="Credits1.aspx" title="Crediti"  description="Crediti" />
+      <siteMapNode url="DettaglioAquisto.aspx" title="Dettaglio"  description="Dettaglio Aquisto" />
+      <siteMapNode url="Carrello1.aspx" title="Carrello"  description="Carrello" />
+      <siteMapNode url="Checkout1.aspx" title="Checkout"  description="Checkout" />
+      <siteMapNode url="VediCarrello.aspx" title="Carrello"  description="Vedi Carrello" />
+      <siteMapNode url="OrdineEffettuato1.aspx" title="Ordine Effettuato"  description="Ordine Effettuato" />
+      <siteMapNode url="GuidaAlSito.aspx" title="Guida Al Sito"  description="Guida al Sito" />
+      <siteMapNode url="Termini-Condizioni.aspx" title="Termini e Condizioni"  description="Termini e Condizioni" />
+      <siteMapNode url="InfoAssicuraSpedizione.aspx" title="Informazioni Assicura Spedizione"  description="Informazioni Aassicura Spedizione" />
+      <siteMapNode url="StoricoOrdini.aspx" title="Storico Ordini"  description="Storico Ordini" />
+      <siteMapNode url="InviaSuggerimento.aspx" title="Invia Suggerimento"  description="Invia Suggerimento" />
+      <siteMapNode url="FAQ.aspx" title="Faq"  description="Frequent Asked Questions" />
+    </siteMapNode>
+</siteMap>

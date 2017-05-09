@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/*body {
+  background: #FFAAAA;
+} */
+
+#cookie {
+  position: relative;
+  top: 0;
+  width: 100%;
+  background-color: #000;
+  opacity: 0.8;
+  color: #DFDFDF;
+  text-align: center;
+}
+
+#cookie p {
+  padding: 6px;
+  font-family: Tahoma;
+  font-size: 12px;
+}
+
+#cookie a {
+  color: #aaa;
+  text-decoration: underline;
+}
+
+#cookie a#close {
+  font-weight: 900;
+  color: #fff;
+  text-decoration: none;
+  background: #aaa;
+  padding: 3px;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+}

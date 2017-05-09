@@ -1,0 +1,62 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Site1.master.vb" Inherits="a_Commerce.Site1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        &nbsp;&nbsp;&nbsp; Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Catalogo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+            Utente&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Impostazioni<br />
+            ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br />
+            <asp:ImageButton ID="ImageButton2" runat="server" Height="51px" 
+                ImageUrl="~/Image/1489415377_home.png" Width="62px" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:ImageButton ID="ImageButton5" runat="server" Height="51px" 
+                ImageUrl="~/Image/1489411155_search.png" Width="62px" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:ImageButton ID="ImageButton3" runat="server" Height="51px" 
+                ImageUrl="~/Image/1489415630_user.png" Width="62px" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:ImageButton ID="ImageButton4" runat="server" Height="51px" 
+                ImageUrl="~/Image/1489416013_settings.png" Width="62px" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; xyz<br />
+            ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br />
+            &nbsp;xyz<br />
+            ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br />
+            <br />
+            <br />
+            <br />
+            <br />
+        
+        </asp:ContentPlaceHolder>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+    </div>
+    </form>
+</body>
+</html>
